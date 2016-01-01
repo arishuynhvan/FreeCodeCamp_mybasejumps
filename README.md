@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clementine.js FCC Boilerplate
 
 [![Join the chat at https://gitter.im/johnstonbl01/clementinejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/johnstonbl01/clementinejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -95,3 +96,6 @@ You can find a complete step-by-step tutorial on how to create this app from the
 ## License
 
 MIT License. [Click here for more information.](LICENSE.md)
+=======
+# FreeCodeCamp_mybasejumps
+>>>>>>> 34e6d539fd641e7838141d80e1dee3ed2ac48972
